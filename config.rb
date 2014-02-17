@@ -1,4 +1,5 @@
 activate :livereload
+activate :neat
 require 'slim'
 
 set :css_dir, 'stylesheets'
